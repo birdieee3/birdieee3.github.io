@@ -1,2 +1,3 @@
 # birdieee3.github.io
-gh page?
+
+homepage is currently blank, go to my [profile](https://github.com/birdieee3) instead!
